@@ -1,0 +1,29 @@
+input {
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input:focus {
+  background-color: lightblue;
+}
+
+ul {
+  background: #ffe5e5;
+  margin-left: 20px;
+  list-style-type: square;
+}
+
+li {
+  padding: 5px;
+  margin-left: 10px;
+}
+
+label{
+  padding: 10px;
+}
+body {
+  font-size: 16px;
+  font-family: Lato, Helvetica, sans-serif;
+}
